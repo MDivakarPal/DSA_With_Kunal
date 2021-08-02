@@ -8,7 +8,7 @@ Problems are devided into three cotagories
 <li>Hard</li>
 </ol>
 </P> 
-## 01-August-2021
+# 01-August-2021
 
  Today I have done practice on git and github. In the morning of 02-08-2021 I forked a repository , cloned it made some changes , push it back to our forked repository and made a pull request to parent repository.
 
