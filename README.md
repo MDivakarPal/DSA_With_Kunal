@@ -10,7 +10,7 @@ Problems are devided into three cotagories
 </P> 
 # All Data Structure and Algorithms  Done By Divakar Pal 
 
- Today I have done practice on git and github. In the morning of 02-08-2021 I forked a repository , cloned it made some changes , push it back to our forked repository and made a pull request to parent repository.
+<p>Today I have done practice on git and github. In the morning of 02-08-2021 I forked a repository , cloned it made some changes , push it back to our forked repository and made a pull request to parent repository.</P>
 
 <b>
 Note : This repository will get update on daily basis. 
